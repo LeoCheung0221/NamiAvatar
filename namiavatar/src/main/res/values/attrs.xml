@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleAvatarImage">
+        <!-- 边界宽度 -->
+        <attr name="civ_border_width" format="dimension" />
+        <!-- 边界颜色 -->
+        <attr name="civ_border_color" format="color" />
+        <!-- 边界是否镀上 -->
+        <attr name="civ_border_overlay" format="boolean" />
+        <!-- 填充颜色 -->
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+</resources>
